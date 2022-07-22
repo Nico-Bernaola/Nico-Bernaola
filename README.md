@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nico-Bernaola
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front End Projects!
 - 📫 How to reach me ...
 
 <!---
