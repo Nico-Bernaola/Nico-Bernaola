@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nico-Bernaola
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front End Projects!
+- 🌱 I’m currently learning React JS and Tailwind layouts!
+- 💞️ I’m looking to collaborate on Front End Projects such as landing pages, dashboards, front end in general.
 - 📫 How to reach me ...
 
 <!---
