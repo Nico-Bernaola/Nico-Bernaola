@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nico-Bernaola
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS and Tailwind layouts!
-- 💞️ I’m looking to collaborate on Front End Projects such as landing pages, dashboards, front end in general.
-- 📫 How to reach me ...
+- 👀 I’m interested in Building Digital Marketing focused software and tools for Digital Marketers
+- 🌱 I’m currently learning NextJS, Supabase and payment integrations.
+- 💞️ I’m looking to collaborate on Full Stack Projects such as CMS, AI fueled Automations & Integrations.
 
 <!---
 Nico-Bernaola/Nico-Bernaola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
