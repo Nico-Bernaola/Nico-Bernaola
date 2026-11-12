@@ -16,7 +16,7 @@ I build end-to-end: data extraction → structuring → inference → UI. My foc
 
 ## Selected work
 
-### Nico-Bernaola-Engine (private repo — available on request)
+### [Nico-Bernaola-Engine](https://github.com/Nico-Bernaola/Nico-Bernaola-Engine)
 Platform-engineering tool for HR teams: automated data extraction, structuring and a **meeting inference engine with a UI**. **Tested in production in a Rappi warehouse.** Built to replace a manual process end-to-end.
 `Python` · `platform engineering` · `pipeline design` · `inference` · `UI`
 
@@ -25,7 +25,7 @@ Client-side chess game review: **Stockfish WASM in a Web Worker**, win-chance mo
 `TypeScript` · `WASM` · `Web Workers` · `client-side architecture`
 
 ### [trendChart](https://github.com/Nico-Bernaola/trendChart)
-Product app inspired by AVIATOR: records and visualizes game trends in a structured way, with an interactive chart layer built on ChartJS.
+Product app inspired by AVIATOR: one of my first solo projects, records and visualizes game trends in a structured way, with an interactive chart layer built on ChartJS.
 `JavaScript` · `ChartJS` · `product thinking`
 
 ### [Excel-Automation](https://github.com/Nico-Bernaola/Excel-Automation)
@@ -34,7 +34,7 @@ Automation of a real spreadsheet workflow — [una frase concreta de qué proces
 
 ## Stack
 
-`Python` · `TypeScript` · `Next.js` · `JavaScript` · `APIs` · `LLM / agentic workflows` · `data pipelines` · `Docker` · `CI/CD` · `WASM / Web Workers` · `ChartJS` · `Git`
+`Python` · `TypeScript` · `Next.js` · `JavaScript` · `APIs` · `LLM / agentic workflows` · `data pipelines` · `Docker` · `CI/CD` · `WASM / Web Workers`  · `Git`· `Linux`
 
 ## Currently
 
