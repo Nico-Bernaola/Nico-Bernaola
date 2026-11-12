@@ -4,21 +4,21 @@
 
 I build end-to-end: data extraction → structuring → inference → UI. My focus is applied AI for real operations (last-mile warehouse, workflow automation, decision support), not research for its own sake.
 
----
+## Live
+
+- **[nicodigitals.site](https://www.nicodigitals.site/)** — personal site I built, hosted and deployed end-to-end: custom domain, Sanity CMS for the blog, and MCP integrations (Claude) wired into the workflow.
 
 ## What I do
 
 - **Automation pipelines** — extract, clean, structure and route data from unstructured sources into usable systems.
 - **Applied AI / agentic workflows** — integrate LLMs and inference engines into real processes with human-in-the-loop where it matters.
-- **Full-stack delivery** — Python/TypeScript, APIs, and client-side tooling (Web Workers, WASM) when the product needs it.
-
----
+- **Full-stack & platform delivery** — Python, TypeScript and Next.js across APIs and client-side tooling (Web Workers, WASM); Docker, CI/CD and self-managed deploys (custom domains, hosting, CMS, MCP integrations).
 
 ## Selected work
 
-### [Nico-Bernaola-Engine](https://github.com/Nico-Bernaola/Nico-Bernaola-Engine)
-Automated data extraction & structuring pipeline, now pivoted to a **meeting inference engine + UI**. Built to replace a manual process end-to-end.
-`Python` · `pipeline design` · `inference` · `UI`
+### Nico-Bernaola-Engine (private repo — available on request)
+Platform-engineering tool for HR teams: automated data extraction, structuring and a **meeting inference engine with a UI**. **Tested in production in a Rappi warehouse.** Built to replace a manual process end-to-end.
+`Python` · `platform engineering` · `pipeline design` · `inference` · `UI`
 
 ### [chess-helper-nicodigitals](https://github.com/Nico-Bernaola/chess-helper-nicodigitals)
 Client-side chess game review: **Stockfish WASM in a Web Worker**, win-chance move classification, evaluation timeline. No backend — a study in doing heavy computation in the browser.
@@ -29,20 +29,16 @@ Product app inspired by AVIATOR: records and visualizes game trends in a structu
 `JavaScript` · `ChartJS` · `product thinking`
 
 ### [Excel-Automation](https://github.com/Nico-Bernaola/Excel-Automation)
-Automation of a real spreadsheet workflow — the kind of manual, repetitive process that quietly eats hours every week.
+Automation of a real spreadsheet workflow — [una frase concreta de qué proceso automatiza].
 `Python` · `automation` · `business use case`
-
----
 
 ## Stack
 
-`Python` · `TypeScript` · `JavaScript` · `APIs` · `LLM / agentic workflows` · `data pipelines` · `WASM / Web Workers` · `ChartJS`
-
----
+`Python` · `TypeScript` · `Next.js` · `JavaScript` · `APIs` · `LLM / agentic workflows` · `data pipelines` · `Docker` · `CI/CD` · `WASM / Web Workers` · `ChartJS` · `Git`
 
 ## Currently
 
 - Building **agentic workflows** and programmatic tools that plug into real-world processes.
-- Open to **remote roles** in applied AI, automation engineering, or full-stack/platform work where shipping matters.
+- Open to **remote roles in applied AI, automation and platform engineering** — with full-stack work as a natural extension.
 
 📫 Reach me: https://www.linkedin.com/in/nico-bernaola/
